@@ -31,4 +31,8 @@ Probles related to linked list
 
 #### 15) SortedInsert: Given a sorted singly linked list and a data, your task is to insert the data in the linked list in a sorted way i.e. order of the list doesn't change.
 
-#### 16) 
+#### 16) PairwiseSwap: Given a singly linked list of size N. The task is to swap elements in the linked list pairwise. For example, if the input list is 1 2 3 4, the resulting list after swaps will be 2 1 4 3.
+
+#### 17) Palindrome: Given a singly linked list of size N of integers. The task is to check if the given linked list is palindrome or not.
+
+#### 18) DeleteNafterModes: Given a linked list, delete N nodes after skipping M nodes of a linked list until the last of the linked list.
